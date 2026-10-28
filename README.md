@@ -30,5 +30,5 @@ I'm **Igor Zakharov**, a **Delivery and Project Manager** with a technical backg
 | Project | What it does | Stack |
 |---|---|---|
 | <img src="assets/SysStateTracer.png" width="20" height="20" alt=""/> **[SysStateTracer](https://github.com/IgorZaharov/SysStateTracer)** | Portable utility that snapshots a Windows machine — folders, files, registry, services — and compares snapshots to show exactly what an install changed. The same capture-and-diff idea at the heart of application repackaging. | C# · .NET 10 · GitHub Actions |
-| **[UABlackoutPreWarning](https://github.com/IgorZaharov/UABlackoutPreWarning)** | System-tray tool that warns 10 minutes before a scheduled blackout in Ukraine, so you can save your work on a PC without a UPS. | Windows tray app |
+| <img src="assets/UABlackoutPreWarning.png" width="20" height="20" alt=""/> **[UABlackoutPreWarning](https://github.com/IgorZaharov/UABlackoutPreWarning)** | System-tray tool that warns 10 minutes before a scheduled blackout in Ukraine, so you can save your work on a PC without a UPS. | Windows tray app |
 | **[TeamsKeepAlive](https://github.com/IgorZaharov/TeamsKeepAlive)** | Tiny desktop utility that keeps Microsoft Teams from flipping your status to "Away". | Windows utility |
