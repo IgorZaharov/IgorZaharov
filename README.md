@@ -34,17 +34,17 @@ I'm **Igor Zakharov**, a **Delivery and Project Manager** with a technical backg
     <th align="left">Stack</th>
   </tr>
   <tr>
-    <td nowrap><img src="assets/SysStateTracer.png" width="20" height="20" alt=""/>&nbsp;<b><a href="https://github.com/IgorZaharov/SysStateTracer">SysStateTracer</a></b></td>
+    <td nowrap><img src="assets/SysStateTracer.png" width="20" height="20" alt=""/>&nbsp;<b><a href="https://github.com/IgorZaharov/SysStateTracer">SysStateTracer</a></b><img src="assets/spacer.png" width="10" height="1" alt=""/></td>
     <td>Portable utility that snapshots a Windows machine — folders, files, registry, services — and compares snapshots to show exactly what an install changed. The same capture-and-diff idea at the heart of application repackaging.</td>
     <td>C# · .NET 10 · GitHub Actions</td>
   </tr>
   <tr>
-    <td nowrap><img src="assets/UABlackoutPreWarning.png" width="20" height="20" alt=""/>&nbsp;<b><a href="https://github.com/IgorZaharov/UABlackoutPreWarning">UABlackoutPreWarning</a></b></td>
+    <td nowrap><img src="assets/UABlackoutPreWarning.png" width="20" height="20" alt=""/>&nbsp;<b><a href="https://github.com/IgorZaharov/UABlackoutPreWarning">UABlackoutPreWarning</a></b><img src="assets/spacer.png" width="10" height="1" alt=""/></td>
     <td>System-tray tool that warns before a scheduled blackout in Ukraine, so you can save your work on a PC without a UPS.</td>
     <td>Windows tray app</td>
   </tr>
   <tr>
-    <td nowrap><b><a href="https://github.com/IgorZaharov/TeamsKeepAlive">TeamsKeepAlive</a></b></td>
+    <td nowrap><b><a href="https://github.com/IgorZaharov/TeamsKeepAlive">TeamsKeepAlive</a></b><img src="assets/spacer.png" width="10" height="1" alt=""/></td>
     <td>Tiny desktop utility that keeps Microsoft Teams from flipping your status to "Away".</td>
     <td>Windows utility</td>
   </tr>
