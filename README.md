@@ -40,7 +40,7 @@ I'm **Igor Zakharov**, a **Delivery and Project Manager** with a technical backg
   </tr>
   <tr>
     <td nowrap><img src="assets/UABlackoutPreWarning.png" width="20" height="20" alt=""/>&nbsp;<b><a href="https://github.com/IgorZaharov/UABlackoutPreWarning">UABlackoutPreWarning</a></b></td>
-    <td>System-tray tool that warns 10 minutes before a scheduled blackout in Ukraine, so you can save your work on a PC without a UPS.</td>
+    <td>System-tray tool that warns before a scheduled blackout in Ukraine, so you can save your work on a PC without a UPS.</td>
     <td>Windows tray app</td>
   </tr>
   <tr>
