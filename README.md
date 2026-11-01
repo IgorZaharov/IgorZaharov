@@ -45,7 +45,7 @@ I'm **Igor Zakharov**, a **Delivery and Project Manager** with a technical backg
   </tr>
   <tr>
     <td nowrap><img src="https://github.com/IgorZaharov/Android-ZTBlackoutPreWarning/raw/main/docs/screenshots/app-icon.png" width="20" height="20" alt=""/>&nbsp;<b><a href="https://github.com/IgorZaharov/Android-ZTBlackoutPreWarning">Світло в Житомирі</a></b><img src="assets/spacer.png" width="10" height="1" alt=""/></td>
-    <td>Small Android app to send notifications before planned blackout in Zhytomyr,UA to finish and save data on PC without UPS.</td>
+    <td>Small Android app to send notifications before planned blackout in Zhytomyr,UA.</td>
     <td>TypeScript, Kotlin</td>
   </tr>
 </table>
