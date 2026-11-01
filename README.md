@@ -41,11 +41,11 @@ I'm **Igor Zakharov**, a **Delivery and Project Manager** with a technical backg
   <tr>
     <td nowrap><img src="assets/UABlackoutPreWarning.png" width="20" height="20" alt=""/>&nbsp;<b><a href="https://github.com/IgorZaharov/UABlackoutPreWarning">UABlackoutPreWarning</a></b><img src="assets/spacer.png" width="10" height="1" alt=""/></td>
     <td>System-tray tool that warns before a scheduled blackout in Ukraine, so you can save your work on a PC without a UPS.</td>
-    <td>Windows tray app</td>
+    <td>C#</td>
   </tr>
   <tr>
     <td nowrap><img src="https://github.com/IgorZaharov/Android-ZTBlackoutPreWarning/raw/main/docs/screenshots/app-icon.png" width="20" height="20" alt=""/>&nbsp;<b><a href="https://github.com/IgorZaharov/Android-ZTBlackoutPreWarning">Світло в Житомирі</a></b><img src="assets/spacer.png" width="10" height="1" alt=""/></td>
     <td>Small Android app to send notifications before planned blackout in Zhytomyr,UA to finish and save data on PC without UPS.</td>
-    <td>Windows utility</td>
+    <td>TypeScript, Kotlin</td>
   </tr>
 </table>
